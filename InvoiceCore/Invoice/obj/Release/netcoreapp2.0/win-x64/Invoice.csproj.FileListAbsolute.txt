@@ -1,0 +1,14 @@
+C:\Users\kotze\OneDrive\Development\Visual Studio\2019\Invoice App\InvoiceCore\Invoice\bin\Release\netcoreapp2.0\win-x64\hostpolicy.dll
+C:\Users\kotze\OneDrive\Development\Visual Studio\2019\Invoice App\InvoiceCore\Invoice\bin\Release\netcoreapp2.0\win-x64\hostfxr.dll
+C:\Users\kotze\OneDrive\Development\Visual Studio\2019\Invoice App\InvoiceCore\Invoice\bin\Release\netcoreapp2.0\win-x64\Invoice.exe
+C:\Users\kotze\OneDrive\Development\Visual Studio\2019\Invoice App\InvoiceCore\Invoice\bin\Release\netcoreapp2.0\win-x64\Invoice.deps.json
+C:\Users\kotze\OneDrive\Development\Visual Studio\2019\Invoice App\InvoiceCore\Invoice\bin\Release\netcoreapp2.0\win-x64\Invoice.runtimeconfig.json
+C:\Users\kotze\OneDrive\Development\Visual Studio\2019\Invoice App\InvoiceCore\Invoice\bin\Release\netcoreapp2.0\win-x64\Invoice.runtimeconfig.dev.json
+C:\Users\kotze\OneDrive\Development\Visual Studio\2019\Invoice App\InvoiceCore\Invoice\bin\Release\netcoreapp2.0\win-x64\Invoice.dll
+C:\Users\kotze\OneDrive\Development\Visual Studio\2019\Invoice App\InvoiceCore\Invoice\bin\Release\netcoreapp2.0\win-x64\Invoice.pdb
+C:\Users\kotze\OneDrive\Development\Visual Studio\2019\Invoice App\InvoiceCore\Invoice\obj\Release\netcoreapp2.0\win-x64\Invoice.csprojAssemblyReference.cache
+C:\Users\kotze\OneDrive\Development\Visual Studio\2019\Invoice App\InvoiceCore\Invoice\obj\Release\netcoreapp2.0\win-x64\Invoice.csproj.CoreCompileInputs.cache
+C:\Users\kotze\OneDrive\Development\Visual Studio\2019\Invoice App\InvoiceCore\Invoice\obj\Release\netcoreapp2.0\win-x64\Invoice.AssemblyInfoInputs.cache
+C:\Users\kotze\OneDrive\Development\Visual Studio\2019\Invoice App\InvoiceCore\Invoice\obj\Release\netcoreapp2.0\win-x64\Invoice.AssemblyInfo.cs
+C:\Users\kotze\OneDrive\Development\Visual Studio\2019\Invoice App\InvoiceCore\Invoice\obj\Release\netcoreapp2.0\win-x64\Invoice.dll
+C:\Users\kotze\OneDrive\Development\Visual Studio\2019\Invoice App\InvoiceCore\Invoice\obj\Release\netcoreapp2.0\win-x64\Invoice.pdb
